@@ -1,0 +1,9 @@
+www.microsoft.com
+www.apple.com
+www.google.com
+www.amazon.com
+www.gnu.org
+www.linux.org
+www.debian.org
+www.naver.com
+www.daum.net
