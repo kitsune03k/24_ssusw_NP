@@ -1,6 +1,7 @@
 # 24_ssusw_NP
 24학년도 1학기 숭실대 소프트웨어 학부 네트워크 프로그래밍 과제
 
+![nice](https://raw.githubusercontent.com/kitsune03k/24_ssusw_NP/main/nice.png)\
 **과제&프로젝트 45점 만점**
 
 ### [과제 1](https://github.com/kitsune03k/24_ssusw_NP/tree/main/hw1)
