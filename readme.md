@@ -1,5 +1,5 @@
 # 24_ssusw_NP
-24학년도 1학기 숭실대 소프트 네트워크 프로그래밍 과제
+24-1 숭실대 소프트 네트워크 프로그래밍 과제
 
 ![score](https://raw.githubusercontent.com/kitsune03k/24_ssusw_NP/main/hwpjscore.png)\
 **과제&프로젝트 45점 만점**
